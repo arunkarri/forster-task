@@ -1,0 +1,2612 @@
+{
+    "count": {
+        "FSK16": 132,
+        "FSKfrei": 84,
+        "FSF12": 17,
+        "FSK12": 171,
+        "FSK6": 56,
+        "FSF16": 6,
+        "FSK18": 28,
+        "FSF6": 7,
+        "Infoprogramm": 9,
+        "FSF0": 2,
+        "FSF18": 3
+    },
+    "FSF0": [
+        {
+            "id": "25676970",
+            "year": 2017,
+            "title": "IDITAROD - Alaskas legendäres Rennen"
+        },
+        {
+            "id": "25657611",
+            "year": 2015,
+            "title": "Rodeo Girl"
+        }
+    ],
+    "FSF6": [
+        {
+            "id": "25653389",
+            "year": 2012,
+            "title": "Danny MacAskill - Life on the Edge"
+        },
+        {
+            "id": "25655549",
+            "year": 2002,
+            "title": "Chinas Obsessionen: Thailands \"Kampf-Käfer\""
+        },
+        {
+            "id": "25655195",
+            "year": 2007,
+            "title": "Crash: Die Geschichte zweier Spezies"
+        },
+        {
+            "id": "25676987",
+            "year": 2007,
+            "title": "Kokain - Der Killer Kolumbiens"
+        },
+        {
+            "id": "25661385",
+            "year": 2007,
+            "title": "Unter den Zirkuskuppeln Chinas: Die Kinderakrobaten von Wuqiao"
+        },
+        {
+            "id": "25679565",
+            "year": 2006,
+            "title": "Zoom - Akademie für Superhelden"
+        },
+        {
+            "id": "25659283",
+            "year": 2007,
+            "title": "Ossi's Eleven"
+        }
+    ],
+    "FSF12": [
+        {
+            "id": "25654992",
+            "year": 2006,
+            "title": "Al Qaedas Meisterspion"
+        },
+        {
+            "id": "25655319",
+            "year": 2009,
+            "title": "Das Beben von Sichuan - Chinas Megakatastrophe"
+        },
+        {
+            "id": "25654796",
+            "year": 2000,
+            "title": "Der Krieger und die Kaiserin"
+        },
+        {
+            "id": "25680012",
+            "year": 1992,
+            "title": "Das tödliche Auge - Teil 2"
+        },
+        {
+            "id": "25674534",
+            "year": 2008,
+            "title": "Eine bärenstarke Liebe"
+        },
+        {
+            "id": "25654100",
+            "year": 2006,
+            "title": "Der stille Don - Teil 1"
+        },
+        {
+            "id": "25676231",
+            "year": 1995,
+            "title": "Die Eisprinzessin"
+        },
+        {
+            "id": "25677199",
+            "year": 2009,
+            "title": "Helen"
+        },
+        {
+            "id": "25656621",
+            "year": 2007,
+            "title": "Manatu - Nur die Wahrheit rettet dich"
+        },
+        {
+            "id": "25676184",
+            "year": 2017,
+            "title": "Oscars (R) 2017 - Liveshow"
+        },
+        {
+            "id": "25678754",
+            "year": 2010,
+            "title": "Marihuana - Droge oder Medizin?"
+        },
+        {
+            "id": "25656919",
+            "year": 2006,
+            "title": "Naruto - The Movie 3: Die Hüter des Sichelmondreiches"
+        },
+        {
+            "id": "25653943",
+            "year": 2008,
+            "title": "Pretty Bird"
+        },
+        {
+            "id": "25655400",
+            "year": 2012,
+            "title": "The Making of a Lady"
+        },
+        {
+            "id": "25674284",
+            "year": 2011,
+            "title": "Tod in Texas"
+        },
+        {
+            "id": "25657792",
+            "year": 1983,
+            "title": "Zwei irre Spaßvögel"
+        },
+        {
+            "id": "25680017",
+            "year": 2005,
+            "title": "Rose unter Dornen - Teil 2"
+        }
+    ],
+    "FSF16": [
+        {
+            "id": "25656720",
+            "year": 2010,
+            "title": "19th Wife"
+        },
+        {
+            "id": "25677744",
+            "year": 2016,
+            "title": "Batman: The Killing Joke"
+        },
+        {
+            "id": "25653759",
+            "year": 2014,
+            "title": "Das Highlight der ran Boxen Schwergewichts-Nacht"
+        },
+        {
+            "id": "25674264",
+            "year": 2007,
+            "title": "Die Todeskandidaten"
+        },
+        {
+            "id": "25675495",
+            "year": 2000,
+            "title": "Duell - Enemy at the Gates"
+        },
+        {
+            "id": "25656936",
+            "year": 1999,
+            "title": "The Cell"
+        }
+    ],
+    "FSF18": [
+        {
+            "id": "25653553",
+            "year": 2008,
+            "title": "Three Kingdoms - Der Krieg der drei Königreiche"
+        },
+        {
+            "id": "25677228",
+            "year": 2015,
+            "title": "UFC 190"
+        },
+        {
+            "id": "25662655",
+            "year": 2017,
+            "title": "What the Health"
+        }
+    ],
+    "FSK6": [
+        {
+            "id": "25677431",
+            "year": 2012,
+            "title": "\"Brennt Paris?\" - Kampf gegen Hitlers Befehl"
+        },
+        {
+            "id": "25676601",
+            "year": 1998,
+            "title": "Aladdin und der Wunderknabe"
+        },
+        {
+            "id": "25676675",
+            "year": 2017,
+            "title": "Abenteuer Südsee"
+        },
+        {
+            "id": "25676993",
+            "year": 2016,
+            "title": "Aliens - E.T.s gefährliche Brüder"
+        },
+        {
+            "id": "25654395",
+            "year": 1998,
+            "title": "Blues Brothers 2000"
+        },
+        {
+            "id": "25675019",
+            "year": 2006,
+            "title": "Bandidas"
+        },
+        {
+            "id": "25658429",
+            "year": 2010,
+            "title": "Bon Appétit"
+        },
+        {
+            "id": "25657462",
+            "year": 1999,
+            "title": "Auf die stürmische Art"
+        },
+        {
+            "id": "25660884",
+            "year": 1977,
+            "title": "Der Stadtneurotiker"
+        },
+        {
+            "id": "25653247",
+            "year": 1999,
+            "title": "Der Weg nach El Dorado"
+        },
+        {
+            "id": "25656180",
+            "year": 1993,
+            "title": "Das Königsspiel"
+        },
+        {
+            "id": "25655975",
+            "year": 2004,
+            "title": "Criminal - Gauner unter sich"
+        },
+        {
+            "id": "25656078",
+            "year": 2013,
+            "title": "Der fast perfekte Mann"
+        },
+        {
+            "id": "25677384",
+            "year": 2012,
+            "title": "Der Mann, der die Welt rettete - Das Geheimnis der Kuba-Krise"
+        },
+        {
+            "id": "25677587",
+            "year": 2010,
+            "title": "Der Schatz im Kivusee"
+        },
+        {
+            "id": "25657905",
+            "year": 2003,
+            "title": "Ein Kater macht Theater"
+        },
+        {
+            "id": "25678119",
+            "year": 2012,
+            "title": "Duell in der Luft - Kampfflieger im Ersten Weltkrieg"
+        },
+        {
+            "id": "25676297",
+            "year": 2016,
+            "title": "Deutschland. Dein Selbstporträt"
+        },
+        {
+            "id": "25658495",
+            "year": 2012,
+            "title": "Hochzeitsnacht mit Hindernissen"
+        },
+        {
+            "id": "25655674",
+            "year": 2006,
+            "title": "Griffin & Phoenix"
+        },
+        {
+            "id": "25659129",
+            "year": 2010,
+            "title": "Hochzeitspolka"
+        },
+        {
+            "id": "25654870",
+            "year": 2010,
+            "title": "Gasland"
+        },
+        {
+            "id": "25655785",
+            "year": 2006,
+            "title": "Der rosarote Panther"
+        },
+        {
+            "id": "25676055",
+            "year": 2012,
+            "title": "Die Stooges - Drei Vollpfosten drehen ab"
+        },
+        {
+            "id": "25655420",
+            "year": 2009,
+            "title": "Der rosarote Panther 2"
+        },
+        {
+            "id": "25654393",
+            "year": 2003,
+            "title": "Die Rugrats auf Achse"
+        },
+        {
+            "id": "25661554",
+            "year": 1901,
+            "title": "HAIR"
+        },
+        {
+            "id": "25662691",
+            "year": 1997,
+            "title": "Eine Hochzeit zum Verlieben"
+        },
+        {
+            "id": "25678817",
+            "year": 1959,
+            "title": "Katja -  Die ungekrönte Kaiserin"
+        },
+        {
+            "id": "25674059",
+            "year": 2017,
+            "title": "Jürgen"
+        },
+        {
+            "id": "25659283",
+            "year": 2007,
+            "title": "Ossi's Eleven"
+        },
+        {
+            "id": "25674854",
+            "year": 1999,
+            "title": "Insider"
+        },
+        {
+            "id": "25675214",
+            "year": 2011,
+            "title": "On the Beat"
+        },
+        {
+            "id": "25657412",
+            "year": 1925,
+            "title": "Oliver Hardy - Der Zauberer von Oz"
+        },
+        {
+            "id": "25652744",
+            "year": 2016,
+            "title": "Mythos Wolfskind - Mogli und die wilden Kinder"
+        },
+        {
+            "id": "25661639",
+            "year": 2014,
+            "title": "Spiegel TV: Der Kreislauf des Recyclings"
+        },
+        {
+            "id": "25658273",
+            "year": 2014,
+            "title": "Spiegel TV: Fliegen auf zwei Rädern: Trendsport Freestyle-Motocross"
+        },
+        {
+            "id": "25658498",
+            "year": 2007,
+            "title": "Rexx, der Feuerwehrhund"
+        },
+        {
+            "id": "25661551",
+            "year": 2014,
+            "title": "Spiegel TV: Das große Matsch-Spektakel: StrongmanRun am Nürburgring"
+        },
+        {
+            "id": "25661827",
+            "year": 2000,
+            "title": "Spot - Ein Hund auf Abwegen"
+        },
+        {
+            "id": "25657287",
+            "year": 1934,
+            "title": "Showdown am Adlerpass"
+        },
+        {
+            "id": "25679330",
+            "year": 2004,
+            "title": "Spanglish"
+        },
+        {
+            "id": "25658205",
+            "year": 2009,
+            "title": "Same Same But Different"
+        },
+        {
+            "id": "25677529",
+            "year": 2015,
+            "title": "Scooby-Doo -  Durchgeknallt im All"
+        },
+        {
+            "id": "25658682",
+            "year": 2014,
+            "title": "Spiegel TV: Faszination E-Sport"
+        },
+        {
+            "id": "25655686",
+            "year": 2004,
+            "title": "Plötzlich verliebt"
+        },
+        {
+            "id": "25654448",
+            "year": 2003,
+            "title": "Sinbad: Der Herr der sieben Meere"
+        },
+        {
+            "id": "25654325",
+            "year": 2000,
+            "title": "Rugrats in Paris"
+        },
+        {
+            "id": "25656754",
+            "year": 1991,
+            "title": "The Answer Man"
+        },
+        {
+            "id": "25654778",
+            "year": 1991,
+            "title": "The Man In The Moon"
+        },
+        {
+            "id": "25653727",
+            "year": 2004,
+            "title": "Vanity Fair - Jahrmarkt der Eitelkeit"
+        },
+        {
+            "id": "25656034",
+            "year": 1973,
+            "title": "Tom Sawyer"
+        },
+        {
+            "id": "25675263",
+            "year": 2011,
+            "title": "Von der Kunst, sich durchzumogeln"
+        },
+        {
+            "id": "25679839",
+            "year": 2013,
+            "title": "Wacken - Der Film"
+        },
+        {
+            "id": "25675246",
+            "year": 2011,
+            "title": "Win Win"
+        },
+        {
+            "id": "25657096",
+            "year": 2003,
+            "title": "Wer tötete Victor Fox?"
+        }
+    ],
+    "FSK12": [
+        {
+            "id": "25652950",
+            "year": 2012,
+            "title": "Ace Attorney - Phoenix Wright"
+        },
+        {
+            "id": "25658256",
+            "year": 2006,
+            "title": "Akte: USA vs. John Lennon"
+        },
+        {
+            "id": "25675127",
+            "year": 1995,
+            "title": "Batman Forever"
+        },
+        {
+            "id": "25659932",
+            "year": 2011,
+            "title": "Beyond - Die rätselhafte Entführung der Amy Noble"
+        },
+        {
+            "id": "25662679",
+            "year": 1962,
+            "title": "Axel Munthe - Der Arzt von San Michele"
+        },
+        {
+            "id": "25655110",
+            "year": 1985,
+            "title": "Alle Mörder sind schon da"
+        },
+        {
+            "id": "25656210",
+            "year": 1967,
+            "title": "Barfuß im Park"
+        },
+        {
+            "id": "25676401",
+            "year": 1979,
+            "title": "Allein zu Zweit"
+        },
+        {
+            "id": "25659112",
+            "year": 2014,
+            "title": "Boulevard"
+        },
+        {
+            "id": "25658298",
+            "year": 1980,
+            "title": "Brubaker"
+        },
+        {
+            "id": "25657049",
+            "year": 2016,
+            "title": "Böse Wetter - Das Geheimnis der Vergangenheit"
+        },
+        {
+            "id": "25674269",
+            "year": 1971,
+            "title": "Balduin, der Sonntagsfahrer"
+        },
+        {
+            "id": "25658987",
+            "year": 2006,
+            "title": "All In - Pokerface"
+        },
+        {
+            "id": "25658721",
+            "year": 2008,
+            "title": "Cadillac Records"
+        },
+        {
+            "id": "25674946",
+            "year": 2012,
+            "title": "Der junge James Dean - Joshua Tree, 1951"
+        },
+        {
+            "id": "25655591",
+            "year": 2004,
+            "title": "Der Rote Kakadu"
+        },
+        {
+            "id": "25659388",
+            "year": 2007,
+            "title": "Das Geheimnis der kleinen Farm -"
+        },
+        {
+            "id": "25657169",
+            "year": 1953,
+            "title": "Das Gewand"
+        },
+        {
+            "id": "25676902",
+            "year": 2002,
+            "title": "Das Jesus Video (Teil 2)"
+        },
+        {
+            "id": "25656703",
+            "year": 1934,
+            "title": "Der Mann, der zuviel wusste"
+        },
+        {
+            "id": "25674314",
+            "year": 2013,
+            "title": "Das Wunder von New York"
+        },
+        {
+            "id": "25677299",
+            "year": 2007,
+            "title": "Clubland - Das ganze Leben ist eine Show"
+        },
+        {
+            "id": "25676069",
+            "year": 1997,
+            "title": "Cop Land"
+        },
+        {
+            "id": "25662525",
+            "year": 1999,
+            "title": "Der einzig Richtige"
+        },
+        {
+            "id": "25661326",
+            "year": 1999,
+            "title": "Das Ende einer Affäre"
+        },
+        {
+            "id": "25655986",
+            "year": 1990,
+            "title": "Das Russland-Haus"
+        },
+        {
+            "id": "25656426",
+            "year": 1965,
+            "title": "Der Spion, der aus der Kälte kam"
+        },
+        {
+            "id": "25656858",
+            "year": 1948,
+            "title": "Der Kommandeur"
+        },
+        {
+            "id": "25653945",
+            "year": 2003,
+            "title": "Das Wunder von Lengede (Teil 2)"
+        },
+        {
+            "id": "25656514",
+            "year": 1991,
+            "title": "Der Ritter aus dem All"
+        },
+        {
+            "id": "25655734",
+            "year": 2007,
+            "title": "Der Mongole"
+        },
+        {
+            "id": "25658078",
+            "year": 2002,
+            "title": "Clockstoppers"
+        },
+        {
+            "id": "25658215",
+            "year": 2005,
+            "title": "Der Herr des Hauses"
+        },
+        {
+            "id": "25678579",
+            "year": 2009,
+            "title": "Defendor"
+        },
+        {
+            "id": "25680530",
+            "year": 1995,
+            "title": "Congo"
+        },
+        {
+            "id": "25674415",
+            "year": 2017,
+            "title": "Das Leben Danach"
+        },
+        {
+            "id": "25657533",
+            "year": 1972,
+            "title": "Die Höllenfahrt der Poseidon"
+        },
+        {
+            "id": "25656428",
+            "year": 1986,
+            "title": "Drei Amigos"
+        },
+        {
+            "id": "25658723",
+            "year": 2010,
+            "title": "Good Morning, Pennsylvania"
+        },
+        {
+            "id": "25678162",
+            "year": 2017,
+            "title": "Die Freibadclique"
+        },
+        {
+            "id": "25675401",
+            "year": 1949,
+            "title": "Der dritte Mann"
+        },
+        {
+            "id": "25679807",
+            "year": 2012,
+            "title": "Ende der Schonzeit"
+        },
+        {
+            "id": "25658315",
+            "year": 2003,
+            "title": "Fog of War"
+        },
+        {
+            "id": "25656674",
+            "year": 1964,
+            "title": "Die vier Söhne der Katie Elder"
+        },
+        {
+            "id": "25679813",
+            "year": 2011,
+            "title": "Ein freudiges Ereignis"
+        },
+        {
+            "id": "25675658",
+            "year": 1964,
+            "title": "Heimliche Freundschaften"
+        },
+        {
+            "id": "25676155",
+            "year": 2003,
+            "title": "Ein ungleiches Paar"
+        },
+        {
+            "id": "25659183",
+            "year": 1980,
+            "title": "Flash Gordon"
+        },
+        {
+            "id": "25653057",
+            "year": 2002,
+            "title": "Im Inneren Kreis"
+        },
+        {
+            "id": "25675783",
+            "year": 2000,
+            "title": "Erkan & Stefan"
+        },
+        {
+            "id": "25654728",
+            "year": 2007,
+            "title": "I Want Candy"
+        },
+        {
+            "id": "25656795",
+            "year": 1994,
+            "title": "Homerun"
+        },
+        {
+            "id": "25674297",
+            "year": 2011,
+            "title": "Homevideo"
+        },
+        {
+            "id": "25653836",
+            "year": 2005,
+            "title": "Dogtown Boys"
+        },
+        {
+            "id": "25655534",
+            "year": 1995,
+            "title": "Die Schutzengel"
+        },
+        {
+            "id": "25659328",
+            "year": 1983,
+            "title": "Der richtige Dreh"
+        },
+        {
+            "id": "25657574",
+            "year": 2003,
+            "title": "Herr Lehmann"
+        },
+        {
+            "id": "25653048",
+            "year": 2004,
+            "title": "Ein ferpektes Verbrechen"
+        },
+        {
+            "id": "25656159",
+            "year": 1962,
+            "title": "Hatari!"
+        },
+        {
+            "id": "25652961",
+            "year": 2011,
+            "title": "Ein fast perfektes Verbrechen"
+        },
+        {
+            "id": "25653061",
+            "year": 2009,
+            "title": "Der letzte Tag des Sommers"
+        },
+        {
+            "id": "25677351",
+            "year": 1995,
+            "title": "Eine französische Frau"
+        },
+        {
+            "id": "25655714",
+            "year": 2010,
+            "title": "Go for it!"
+        },
+        {
+            "id": "25662570",
+            "year": 1997,
+            "title": "Fletcher's Visionen"
+        },
+        {
+            "id": "25661535",
+            "year": 2005,
+            "title": "Donald Strachey: Und Du bist raus!"
+        },
+        {
+            "id": "25661525",
+            "year": 1962,
+            "title": "Gesprengte Ketten"
+        },
+        {
+            "id": "25660289",
+            "year": 2006,
+            "title": "Fearless"
+        },
+        {
+            "id": "25662517",
+            "year": 2007,
+            "title": "Im Auftrag des Terrors"
+        },
+        {
+            "id": "25661452",
+            "year": 1976,
+            "title": "Die Brücke von Arnheim"
+        },
+        {
+            "id": "25656874",
+            "year": 2007,
+            "title": "Jugend ohne Jugend"
+        },
+        {
+            "id": "25675111",
+            "year": 1993,
+            "title": "Maya Memsaab"
+        },
+        {
+            "id": "25656072",
+            "year": 2009,
+            "title": "Last Impact - Der Einschlag (Teil 1)"
+        },
+        {
+            "id": "25657773",
+            "year": 2009,
+            "title": "Looking for Eric"
+        },
+        {
+            "id": "25662680",
+            "year": 1960,
+            "title": "La Dolce Vita - Das süße Leben"
+        },
+        {
+            "id": "25659176",
+            "year": 2009,
+            "title": "Nord"
+        },
+        {
+            "id": "25659674",
+            "year": 2014,
+            "title": "Kung Fu Killer"
+        },
+        {
+            "id": "25678989",
+            "year": 2015,
+            "title": "Midnight Special"
+        },
+        {
+            "id": "25657256",
+            "year": 2005,
+            "title": "Naruto - The Movie 2 - Die Legende des Steins von Gelel"
+        },
+        {
+            "id": "25679387",
+            "year": 2016,
+            "title": "Oasis: Supersonic"
+        },
+        {
+            "id": "25661264",
+            "year": 2012,
+            "title": "Paladin - Der Drachenjäger"
+        },
+        {
+            "id": "25655298",
+            "year": 2007,
+            "title": "In deiner Haut"
+        },
+        {
+            "id": "25673730",
+            "year": 2012,
+            "title": "Lord of the Elves - Das Zeitalter der Halblinge"
+        },
+        {
+            "id": "25677711",
+            "year": 2014,
+            "title": "Mommy"
+        },
+        {
+            "id": "25677157",
+            "year": 2016,
+            "title": "Justice League vs. Teen Titans"
+        },
+        {
+            "id": "25678642",
+            "year": 2014,
+            "title": "Mörderische Spiele: Die Kleptomanin"
+        },
+        {
+            "id": "25679639",
+            "year": 1961,
+            "title": "Lolita"
+        },
+        {
+            "id": "25674020",
+            "year": 1994,
+            "title": "Les Milles - Gefangen im Lager"
+        },
+        {
+            "id": "25677771",
+            "year": 2018,
+            "title": "Mörderische Spiele: Verbrechen lohnt sich nicht"
+        },
+        {
+            "id": "25675522",
+            "year": 2012,
+            "title": "Out in the Dark ...Liebe sprengt Grenzen"
+        },
+        {
+            "id": "25679522",
+            "year": 2013,
+            "title": "In a World ... - Die Macht der Stimme"
+        },
+        {
+            "id": "25679513",
+            "year": 1990,
+            "title": "Listen Up! Die Leben des Quincy Jones"
+        },
+        {
+            "id": "25659516",
+            "year": 2012,
+            "title": "Nach der Revolution"
+        },
+        {
+            "id": "25677822",
+            "year": 1960,
+            "title": "Peeping Tom"
+        },
+        {
+            "id": "25676935",
+            "year": 2016,
+            "title": "Mörderische Spiele: Einfach Mord?"
+        },
+        {
+            "id": "25679079",
+            "year": 1981,
+            "title": "Kampf der Titanen (1981)"
+        },
+        {
+            "id": "25679730",
+            "year": 1976,
+            "title": "Logan's Run - Flucht ins 23. Jahrhundert"
+        },
+        {
+            "id": "25678807",
+            "year": 2016,
+            "title": "Mörderische Spiele: Vier Frauen und ein Mord"
+        },
+        {
+            "id": "25676061",
+            "year": 1994,
+            "title": "Nich' mit Leo"
+        },
+        {
+            "id": "25658160",
+            "year": 2008,
+            "title": "LOL (Laughing Out Loud)"
+        },
+        {
+            "id": "25654655",
+            "year": 2014,
+            "title": "Iraqi Odyssey"
+        },
+        {
+            "id": "25659630",
+            "year": 2001,
+            "title": "Mondscheintarif"
+        },
+        {
+            "id": "25677076",
+            "year": 2001,
+            "title": "Novocaine"
+        },
+        {
+            "id": "25653127",
+            "year": 2011,
+            "title": "Mein Stück vom Kuchen"
+        },
+        {
+            "id": "25657740",
+            "year": 2009,
+            "title": "Lesbian Vampire Killers"
+        },
+        {
+            "id": "25655313",
+            "year": 2017,
+            "title": "Lazer Team"
+        },
+        {
+            "id": "25657275",
+            "year": 1966,
+            "title": "Kanonenboot am Yangtse-Kiang"
+        },
+        {
+            "id": "25654803",
+            "year": 2006,
+            "title": "Irina Palm"
+        },
+        {
+            "id": "25674129",
+            "year": 2006,
+            "title": "Little Man"
+        },
+        {
+            "id": "25677121",
+            "year": 1999,
+            "title": "Jakob der Lügner"
+        },
+        {
+            "id": "25654005",
+            "year": 2009,
+            "title": "Talhotblond"
+        },
+        {
+            "id": "25656955",
+            "year": 2005,
+            "title": "Searching for Bobby D"
+        },
+        {
+            "id": "25657303",
+            "year": 2012,
+            "title": "Spiegel TV: Diskrete Ausputzer - Zimmermädchen im Einsatz"
+        },
+        {
+            "id": "25658262",
+            "year": 2014,
+            "title": "Soft Lad - Liebe auf Umwegen"
+        },
+        {
+            "id": "25660309",
+            "year": 2009,
+            "title": "Spring Breakdown - Alter schützt vor Party nicht"
+        },
+        {
+            "id": "25676288",
+            "year": 2004,
+            "title": "Stauffenberg"
+        },
+        {
+            "id": "25656984",
+            "year": 2012,
+            "title": "Spiegel TV: Die Unparteiischen - Pfeifen für die Amateure"
+        },
+        {
+            "id": "25655915",
+            "year": 2011,
+            "title": "Resturlaub"
+        },
+        {
+            "id": "25653378",
+            "year": 2000,
+            "title": "Pootie Tang"
+        },
+        {
+            "id": "25675792",
+            "year": 2001,
+            "title": "Sass - Die Meisterdiebe"
+        },
+        {
+            "id": "25662028",
+            "year": 2017,
+            "title": "Star Raiders"
+        },
+        {
+            "id": "25656884",
+            "year": 2012,
+            "title": "Spiegel TV: Die Silberschmiede"
+        },
+        {
+            "id": "25656374",
+            "year": 2005,
+            "title": "Sommer vorm Balkon"
+        },
+        {
+            "id": "25680726",
+            "year": 2013,
+            "title": "Stand Up Guys"
+        },
+        {
+            "id": "25652939",
+            "year": 2013,
+            "title": "Spiegel TV: Wellen, Wind und Weltelite - Beim Kitesurf World Cup"
+        },
+        {
+            "id": "25657057",
+            "year": 2013,
+            "title": "Spiegel TV: Der Weg des Steinbutts - Von der Bretagne nach Berlin"
+        },
+        {
+            "id": "25678293",
+            "year": 2014,
+            "title": "Selma"
+        },
+        {
+            "id": "25653269",
+            "year": 2013,
+            "title": "Rosie"
+        },
+        {
+            "id": "25656813",
+            "year": 1954,
+            "title": "Rhythmus im Blut"
+        },
+        {
+            "id": "25676501",
+            "year": 2012,
+            "title": "Straße der bösen Jungs"
+        },
+        {
+            "id": "25653860",
+            "year": 1999,
+            "title": "Superstar"
+        },
+        {
+            "id": "25655469",
+            "year": 1988,
+            "title": "Rain Man"
+        },
+        {
+            "id": "25655305",
+            "year": 1990,
+            "title": "Quigley, der Australier"
+        },
+        {
+            "id": "25658235",
+            "year": 2012,
+            "title": "Spiegel TV: Die Rückkehr des Glamour"
+        },
+        {
+            "id": "25654751",
+            "year": 2012,
+            "title": "Reality XL: Realität ist ein Traum"
+        },
+        {
+            "id": "25673859",
+            "year": 2014,
+            "title": "Space Station 76"
+        },
+        {
+            "id": "25657821",
+            "year": 2013,
+            "title": "Spiegel TV: Brandgefährlich! - Bei den Ausbildern der Feuerwehr"
+        },
+        {
+            "id": "25656689",
+            "year": 2012,
+            "title": "Spiegel TV: Die Raute im Herzen - Hinter den Kulissen eines Stadions"
+        },
+        {
+            "id": "25656320",
+            "year": 2013,
+            "title": "Spiegel TV: Der King von Sylt - Fischküche - einfach und genial"
+        },
+        {
+            "id": "25677998",
+            "year": 1998,
+            "title": "Rounders"
+        },
+        {
+            "id": "25653110",
+            "year": 2013,
+            "title": "Spiegel TV: Tomorrowland - Disneyworld für Partypeople"
+        },
+        {
+            "id": "25656439",
+            "year": 2012,
+            "title": "The Deep"
+        },
+        {
+            "id": "25656483",
+            "year": 2009,
+            "title": "The Land that time forgot"
+        },
+        {
+            "id": "25678093",
+            "year": 1954,
+            "title": "The Dam Busters - Die Zerstörung der Talsperren"
+        },
+        {
+            "id": "25675666",
+            "year": 2012,
+            "title": "The Falls - Liebe kann nicht Sünde sein"
+        },
+        {
+            "id": "25674478",
+            "year": 2014,
+            "title": "The Song"
+        },
+        {
+            "id": "25658922",
+            "year": 2000,
+            "title": "Tödliche Gerüchte"
+        },
+        {
+            "id": "25652809",
+            "year": 2010,
+            "title": "Triple Dog"
+        },
+        {
+            "id": "25657222",
+            "year": 2009,
+            "title": "Trauzeuge gesucht!"
+        },
+        {
+            "id": "25674905",
+            "year": 1977,
+            "title": "Unheimliche Begegnung der dritten Art"
+        },
+        {
+            "id": "25658044",
+            "year": 1951,
+            "title": "Viva Zapata!"
+        },
+        {
+            "id": "25675405",
+            "year": 1999,
+            "title": "Verrückt in Alabama"
+        },
+        {
+            "id": "25654825",
+            "year": 1979,
+            "title": "Viel Rauch um Nichts"
+        },
+        {
+            "id": "25655626",
+            "year": 1992,
+            "title": "Von Mäusen und Menschen"
+        },
+        {
+            "id": "25674996",
+            "year": 1984,
+            "title": "Viva la vie - Es lebe das Leben"
+        },
+        {
+            "id": "25654012",
+            "year": 2004,
+            "title": "Wie überleben wir Weihnachten?"
+        },
+        {
+            "id": "25655197",
+            "year": 2005,
+            "title": "Werewolf in Bangkok"
+        },
+        {
+            "id": "25656501",
+            "year": 1983,
+            "title": "WarGames - Kriegsspiele"
+        },
+        {
+            "id": "25677705",
+            "year": 2009,
+            "title": "Youth in Revolt"
+        },
+        {
+            "id": "25656708",
+            "year": 1961,
+            "title": "West Side Story"
+        },
+        {
+            "id": "25655361",
+            "year": 2008,
+            "title": "Was Liebe heißt - Teil 2"
+        },
+        {
+            "id": "25654900",
+            "year": 1992,
+            "title": "Überleben"
+        },
+        {
+            "id": "25657683",
+            "year": 1981,
+            "title": "Der Hornochse und sein Zugpferd"
+        },
+        {
+            "id": "25654796",
+            "year": 2000,
+            "title": "Der Krieger und die Kaiserin"
+        },
+        {
+            "id": "25680012",
+            "year": 1992,
+            "title": "Das tödliche Auge - Teil 2"
+        },
+        {
+            "id": "25677199",
+            "year": 2009,
+            "title": "Helen"
+        },
+        {
+            "id": "25654765",
+            "year": 1987,
+            "title": "Ist sie nicht wunderbar?"
+        },
+        {
+            "id": "25656919",
+            "year": 2006,
+            "title": "Naruto - The Movie 3: Die Hüter des Sichelmondreiches"
+        },
+        {
+            "id": "25676895",
+            "year": 2002,
+            "title": "Paradies - Die Leidenschaft des Paul Gauguin"
+        },
+        {
+            "id": "25655400",
+            "year": 2012,
+            "title": "The Making of a Lady"
+        },
+        {
+            "id": "25677715",
+            "year": 2014,
+            "title": "The Look of Silence"
+        },
+        {
+            "id": "25657792",
+            "year": 1983,
+            "title": "Zwei irre Spaßvögel"
+        }
+    ],
+    "FSK16": [
+        {
+            "id": "25676384",
+            "year": 2013,
+            "title": "30 Nights of Paranormal Activity with the Devil inside"
+        },
+        {
+            "id": "25677853",
+            "year": 2000,
+            "title": "101 Reykjavik"
+        },
+        {
+            "id": "25677606",
+            "year": 2004,
+            "title": "A Dirty Shame"
+        },
+        {
+            "id": "25659472",
+            "year": 2008,
+            "title": "80 Minutes"
+        },
+        {
+            "id": "25659270",
+            "year": 2004,
+            "title": "Agnes und seine Brüder"
+        },
+        {
+            "id": "25676122",
+            "year": 2005,
+            "title": "Big Stan - Kleiner Arsch ganz gross!"
+        },
+        {
+            "id": "25662165",
+            "year": 2000,
+            "title": "Blutige Millionenjagd"
+        },
+        {
+            "id": "25659950",
+            "year": 2010,
+            "title": "Barbarossa"
+        },
+        {
+            "id": "25661369",
+            "year": 1992,
+            "title": "Armee der Finsternis"
+        },
+        {
+            "id": "25656143",
+            "year": 2000,
+            "title": "Amores Perros - Von Hunden und Menschen"
+        },
+        {
+            "id": "25679404",
+            "year": 1992,
+            "title": "Bloody Marie - Eine Frau mit Biß"
+        },
+        {
+            "id": "25679257",
+            "year": 2006,
+            "title": "Boy Culture - Sex pays. Love costs"
+        },
+        {
+            "id": "25680030",
+            "year": 2013,
+            "title": "Bad Milo!"
+        },
+        {
+            "id": "25678461",
+            "year": 2015,
+            "title": "Anrufer unbekannt"
+        },
+        {
+            "id": "25677381",
+            "year": 2016,
+            "title": "Batman: Bad Blood"
+        },
+        {
+            "id": "25677378",
+            "year": 1965,
+            "title": "Alphaville"
+        },
+        {
+            "id": "25659133",
+            "year": 2010,
+            "title": "Carlos - Der Schakal"
+        },
+        {
+            "id": "25658280",
+            "year": 2014,
+            "title": "American Warships 2"
+        },
+        {
+            "id": "25657291",
+            "year": 2014,
+            "title": "Android Cop"
+        },
+        {
+            "id": "25656803",
+            "year": 2005,
+            "title": "Brick"
+        },
+        {
+            "id": "25676352",
+            "year": 2015,
+            "title": "American Poltergeist 6: The Haunting of Alice D."
+        },
+        {
+            "id": "25656829",
+            "year": 2007,
+            "title": "Beneath"
+        },
+        {
+            "id": "25657419",
+            "year": 1999,
+            "title": "American Beauty"
+        },
+        {
+            "id": "25657277",
+            "year": 2014,
+            "title": "Cannabis Kid"
+        },
+        {
+            "id": "25656382",
+            "year": 2015,
+            "title": "Der Glaube unserer Väter"
+        },
+        {
+            "id": "25658130",
+            "year": 2007,
+            "title": "Das Gesetz der Ehre"
+        },
+        {
+            "id": "25675329",
+            "year": 1975,
+            "title": "Der Mann, der vom Himmel fiel"
+        },
+        {
+            "id": "25676838",
+            "year": 2016,
+            "title": "Cutey Honey: Tears"
+        },
+        {
+            "id": "25656880",
+            "year": 2008,
+            "title": "Conjurer: Manche Sünden werden nicht vergessen"
+        },
+        {
+            "id": "25675706",
+            "year": 2001,
+            "title": "Der Tunnel - Teil 1"
+        },
+        {
+            "id": "25661357",
+            "year": 2011,
+            "title": "Choy Lee Fut"
+        },
+        {
+            "id": "25677184",
+            "year": 1974,
+            "title": "Das Gespenst der Freiheit"
+        },
+        {
+            "id": "25653251",
+            "year": 2012,
+            "title": "Cherry - Wanna play?"
+        },
+        {
+            "id": "25654373",
+            "year": 2009,
+            "title": "Dark Legends"
+        },
+        {
+            "id": "25655616",
+            "year": 1985,
+            "title": "Der Bulle von Paris"
+        },
+        {
+            "id": "25678496",
+            "year": 1998,
+            "title": "Das Gegenteil von Sex"
+        },
+        {
+            "id": "25678374",
+            "year": 1986,
+            "title": "Der City Hai"
+        },
+        {
+            "id": "25679472",
+            "year": 2013,
+            "title": "Cold Comes The Night"
+        },
+        {
+            "id": "25659171",
+            "year": 2002,
+            "title": "Imperium - Zwei Welten prallen aufeinander"
+        },
+        {
+            "id": "25656885",
+            "year": 1989,
+            "title": "Harry und Sally"
+        },
+        {
+            "id": "25675735",
+            "year": 1998,
+            "title": "Fögi ist ein Sauhund"
+        },
+        {
+            "id": "25675817",
+            "year": 1980,
+            "title": "Erotic Classics: Die kleinen Aufreisserinnen"
+        },
+        {
+            "id": "25680310",
+            "year": 1984,
+            "title": "Es war einmal in Amerika"
+        },
+        {
+            "id": "25680013",
+            "year": 2013,
+            "title": "Ice Soldiers"
+        },
+        {
+            "id": "25658448",
+            "year": 2008,
+            "title": "Hank and Mike"
+        },
+        {
+            "id": "25675488",
+            "year": 1998,
+            "title": "Desperate Measures"
+        },
+        {
+            "id": "25678444",
+            "year": 1970,
+            "title": "Dracula - Nächte des Entsetzens"
+        },
+        {
+            "id": "25676038",
+            "year": 2009,
+            "title": "Haunting of Winchester House"
+        },
+        {
+            "id": "25657216",
+            "year": 1989,
+            "title": "Freitag der 13 Teil 8: Todesfalle Manhattan"
+        },
+        {
+            "id": "25675704",
+            "year": 1945,
+            "title": "Ich kämpfe um dich - Spellbound"
+        },
+        {
+            "id": "25658267",
+            "year": 2009,
+            "title": "Dschingis Khan - Sturm über Asien"
+        },
+        {
+            "id": "25676647",
+            "year": 2010,
+            "title": "Far Cry"
+        },
+        {
+            "id": "25656896",
+            "year": 1995,
+            "title": "Heat"
+        },
+        {
+            "id": "25676856",
+            "year": 2017,
+            "title": "Eat Locals"
+        },
+        {
+            "id": "25653787",
+            "year": 2012,
+            "title": "Escape"
+        },
+        {
+            "id": "25654817",
+            "year": 1960,
+            "title": "Die glorreichen Sieben"
+        },
+        {
+            "id": "25655645",
+            "year": 2006,
+            "title": "Horrors of War"
+        },
+        {
+            "id": "25657116",
+            "year": 1996,
+            "title": "Hard Eight"
+        },
+        {
+            "id": "25661884",
+            "year": 1967,
+            "title": "Hängt ihn höher"
+        },
+        {
+            "id": "25658996",
+            "year": 1988,
+            "title": "Eis am Stiel VIII - Summertime Blues"
+        },
+        {
+            "id": "25658504",
+            "year": 2012,
+            "title": "Gangs of Wasseypur - Teil 1"
+        },
+        {
+            "id": "25658339",
+            "year": 2010,
+            "title": "Four Lions"
+        },
+        {
+            "id": "25661636",
+            "year": 1968,
+            "title": "Finders Keepers, Lovers Weepers"
+        },
+        {
+            "id": "25662060",
+            "year": 1989,
+            "title": "Old Gringo"
+        },
+        {
+            "id": "25674749",
+            "year": 1979,
+            "title": "Jackie Chan: Meister aller Klassen"
+        },
+        {
+            "id": "25680654",
+            "year": 1992,
+            "title": "Lethal Weapon 3 - Die Profis sind zurück (Directors Cut)"
+        },
+        {
+            "id": "25659441",
+            "year": 2015,
+            "title": "Lila & Eve - Blinde Rache"
+        },
+        {
+            "id": "25674391",
+            "year": 2014,
+            "title": "Jarhead 2: Zurück in die Hölle"
+        },
+        {
+            "id": "25680425",
+            "year": 1988,
+            "title": "Lethal Weapon 2 - Brennpunkt L.A. (Directors Cut)"
+        },
+        {
+            "id": "25677422",
+            "year": 1971,
+            "title": "Nur Vampire küssen blutig"
+        },
+        {
+            "id": "25653419",
+            "year": 2012,
+            "title": "Love Bite - Nichts ist safer als Sex"
+        },
+        {
+            "id": "25653129",
+            "year": 2003,
+            "title": "Marines - Gehetzt und verraten"
+        },
+        {
+            "id": "25675948",
+            "year": 2011,
+            "title": "Miss Bala"
+        },
+        {
+            "id": "25678155",
+            "year": 2011,
+            "title": "Inside Out"
+        },
+        {
+            "id": "25679126",
+            "year": 1955,
+            "title": "Ladykillers (1955)"
+        },
+        {
+            "id": "25679773",
+            "year": 1986,
+            "title": "Lethal Weapon - Zwei stahlharte Profis (Director's Cut)"
+        },
+        {
+            "id": "25674686",
+            "year": 2017,
+            "title": "It Came From The Desert"
+        },
+        {
+            "id": "25657885",
+            "year": 2008,
+            "title": "Monster"
+        },
+        {
+            "id": "25655359",
+            "year": 2004,
+            "title": "Muxmäuschenstill"
+        },
+        {
+            "id": "25655503",
+            "year": 1975,
+            "title": "Nachts, wenn die Zombies schreien"
+        },
+        {
+            "id": "25674307",
+            "year": 2003,
+            "title": "Oldboy"
+        },
+        {
+            "id": "25656678",
+            "year": 1982,
+            "title": "Mad Mission - Knochenbrecher und Kanonen"
+        },
+        {
+            "id": "25674022",
+            "year": 1985,
+            "title": "Jackie Chan: Powerman II"
+        },
+        {
+            "id": "25656636",
+            "year": 1966,
+            "title": "Nevada Smith"
+        },
+        {
+            "id": "25674567",
+            "year": 1985,
+            "title": "Jackie Chan: Powerman III"
+        },
+        {
+            "id": "25655528",
+            "year": 2014,
+            "title": "Lap Dance"
+        },
+        {
+            "id": "25674861",
+            "year": 2014,
+            "title": "Operation Rogue - Einsatz am Limit"
+        },
+        {
+            "id": "25659185",
+            "year": 1994,
+            "title": "Iron Monkey"
+        },
+        {
+            "id": "25655965",
+            "year": 2012,
+            "title": "Mass Effect: Paragon Lost"
+        },
+        {
+            "id": "25677117",
+            "year": 1962,
+            "title": "Liebe 1962 "
+        },
+        {
+            "id": "25659161",
+            "year": 2013,
+            "title": "Once Upon a Time in Vietnam"
+        },
+        {
+            "id": "25675079",
+            "year": 2010,
+            "title": "Meteor Apocalypse"
+        },
+        {
+            "id": "25657344",
+            "year": 2011,
+            "title": "Retreat"
+        },
+        {
+            "id": "25652705",
+            "year": 2005,
+            "title": "Ring 2"
+        },
+        {
+            "id": "25674500",
+            "year": 2009,
+            "title": "Shopping-Center King"
+        },
+        {
+            "id": "25653498",
+            "year": 2006,
+            "title": "Queer Duck"
+        },
+        {
+            "id": "25652822",
+            "year": 2012,
+            "title": "Point Blank - Bedrohung im Schatten"
+        },
+        {
+            "id": "25657378",
+            "year": 2008,
+            "title": "Resident Evil - Degeneration"
+        },
+        {
+            "id": "25653021",
+            "year": 2009,
+            "title": "Road Trip: Beer Pong  Uncut"
+        },
+        {
+            "id": "25658417",
+            "year": 2012,
+            "title": "Stash House"
+        },
+        {
+            "id": "25655782",
+            "year": 2004,
+            "title": "Species III"
+        },
+        {
+            "id": "25655390",
+            "year": 2008,
+            "title": "Shutter - Sie sehen dich"
+        },
+        {
+            "id": "25674017",
+            "year": 2008,
+            "title": "Sonner"
+        },
+        {
+            "id": "25655315",
+            "year": 1991,
+            "title": "Schatten der Vergangenheit"
+        },
+        {
+            "id": "25653180",
+            "year": 2016,
+            "title": "Phantasm V - Ravager - Das Böse V"
+        },
+        {
+            "id": "25680604",
+            "year": 2009,
+            "title": "Stepfather"
+        },
+        {
+            "id": "25653986",
+            "year": 2007,
+            "title": "Stop-Loss"
+        },
+        {
+            "id": "25676329",
+            "year": 2009,
+            "title": "Swansong"
+        },
+        {
+            "id": "25677864",
+            "year": 1950,
+            "title": "Rendezvous in Paris"
+        },
+        {
+            "id": "25653234",
+            "year": 2015,
+            "title": "Suburra"
+        },
+        {
+            "id": "25657349",
+            "year": 2012,
+            "title": "The Ghostmaker"
+        },
+        {
+            "id": "25653136",
+            "year": 2006,
+            "title": "The Last Mission - Das Himmelfahrtskommando"
+        },
+        {
+            "id": "25660577",
+            "year": 2005,
+            "title": "The Amityville Horror - Eine wahre Geschichte"
+        },
+        {
+            "id": "25655013",
+            "year": 2008,
+            "title": "The Protocol - Jeder Tod hat seinen Preis"
+        },
+        {
+            "id": "25659476",
+            "year": 2005,
+            "title": "The Deal"
+        },
+        {
+            "id": "25653240",
+            "year": 1989,
+            "title": "The Phantom of the Opera"
+        },
+        {
+            "id": "25657016",
+            "year": 1999,
+            "title": "Tell Me Something"
+        },
+        {
+            "id": "25680744",
+            "year": 2012,
+            "title": "The Iceman"
+        },
+        {
+            "id": "25656869",
+            "year": 2017,
+            "title": "The Holly Kane Experiment"
+        },
+        {
+            "id": "25656513",
+            "year": 1984,
+            "title": "Terminator"
+        },
+        {
+            "id": "25656564",
+            "year": 1969,
+            "title": "Tora! Tora! Tora!"
+        },
+        {
+            "id": "25658843",
+            "year": 2002,
+            "title": "Todeskommando Russland 2"
+        },
+        {
+            "id": "25660851",
+            "year": 2016,
+            "title": "The Void"
+        },
+        {
+            "id": "25676944",
+            "year": 2013,
+            "title": "The Unforgiven"
+        },
+        {
+            "id": "25679184",
+            "year": 1984,
+            "title": "The Killing Fields - Schreiendes Land"
+        },
+        {
+            "id": "25677050",
+            "year": 2013,
+            "title": "Vampire Boys 2: The New Brood"
+        },
+        {
+            "id": "25677752",
+            "year": 2015,
+            "title": "Uns geht es gut"
+        },
+        {
+            "id": "25677612",
+            "year": 2016,
+            "title": "Visions"
+        },
+        {
+            "id": "25675604",
+            "year": 2008,
+            "title": "Vinyan"
+        },
+        {
+            "id": "25676327",
+            "year": 2016,
+            "title": "Viking Legacy"
+        },
+        {
+            "id": "25659718",
+            "year": 2010,
+            "title": "Wild Things 4: Genieß den Trip"
+        },
+        {
+            "id": "25660734",
+            "year": 2016,
+            "title": "Wild for the Night"
+        }
+    ],
+    "FSK18": [
+        {
+            "id": "25655646",
+            "year": 2012,
+            "title": "Black Out - Killer, Koks und wilde Bräute"
+        },
+        {
+            "id": "25677297",
+            "year": 2009,
+            "title": "As Good As Dead"
+        },
+        {
+            "id": "25673697",
+            "year": 2012,
+            "title": "Dario Argentos Dracula"
+        },
+        {
+            "id": "25656597",
+            "year": 1966,
+            "title": "Der Mann, der zweimal lebte"
+        },
+        {
+            "id": "25657340",
+            "year": 1991,
+            "title": "Demons 4 - The Sect"
+        },
+        {
+            "id": "25662042",
+            "year": 2013,
+            "title": "Code Red"
+        },
+        {
+            "id": "25656366",
+            "year": 2004,
+            "title": "Death Valley"
+        },
+        {
+            "id": "25655242",
+            "year": 2013,
+            "title": "Hammer of the Gods"
+        },
+        {
+            "id": "25680630",
+            "year": 1986,
+            "title": "Freitag der 13. Teil VI - Jason lebt"
+        },
+        {
+            "id": "25677561",
+            "year": 2016,
+            "title": "Drifter"
+        },
+        {
+            "id": "25676395",
+            "year": 2015,
+            "title": "Devil's Candy"
+        },
+        {
+            "id": "25653847",
+            "year": 2008,
+            "title": "Die Erpresser"
+        },
+        {
+            "id": "25675461",
+            "year": 2016,
+            "title": "Killing Salazar"
+        },
+        {
+            "id": "25674341",
+            "year": 1999,
+            "title": "In China essen sie Hunde"
+        },
+        {
+            "id": "25654981",
+            "year": 1993,
+            "title": "Kalifornia"
+        },
+        {
+            "id": "25657330",
+            "year": 2016,
+            "title": "Killing Salazar- Uncut"
+        },
+        {
+            "id": "25655293",
+            "year": 1987,
+            "title": "Killer Klowns from Outer Space"
+        },
+        {
+            "id": "25654979",
+            "year": 2006,
+            "title": "Nightmare Man"
+        },
+        {
+            "id": "25655860",
+            "year": 1987,
+            "title": "RoboCop"
+        },
+        {
+            "id": "25655855",
+            "year": 1989,
+            "title": "Road House"
+        },
+        {
+            "id": "25655271",
+            "year": 1983,
+            "title": "Rock Baby - Eine tödliche Liebe"
+        },
+        {
+            "id": "25656778",
+            "year": 1986,
+            "title": "TROLL (EPIC)"
+        },
+        {
+            "id": "25655176",
+            "year": 2008,
+            "title": "The Cottage"
+        },
+        {
+            "id": "25658016",
+            "year": 2011,
+            "title": "The Watermen"
+        },
+        {
+            "id": "25679848",
+            "year": 2009,
+            "title": "Trick 'r Treat - Die Nacht der Schrecken"
+        },
+        {
+            "id": "25676916",
+            "year": 1973,
+            "title": "Trio Infernal "
+        },
+        {
+            "id": "25657714",
+            "year": 2013,
+            "title": "Zombie Hunter"
+        },
+        {
+            "id": "25662513",
+            "year": 2014,
+            "title": "Zombie Fight Club"
+        }
+    ],
+    "FSKfrei": [
+        {
+            "id": "25654645",
+            "year": 2008,
+            "title": "Abgedreht"
+        },
+        {
+            "id": "25673732",
+            "year": 2012,
+            "title": "Cassie - Ein verhextes Video"
+        },
+        {
+            "id": "25661233",
+            "year": 2012,
+            "title": "Bavaria - Traumreise durch Bayern"
+        },
+        {
+            "id": "25655083",
+            "year": 2007,
+            "title": "Big, Bigger, Biggest: Die Akashi Kaikyo Brücke"
+        },
+        {
+            "id": "25653631",
+            "year": 2012,
+            "title": "Bending Colours"
+        },
+        {
+            "id": "25655532",
+            "year": 2007,
+            "title": "Big, Bigger, Biggest: Der Burj Dubai Wolkenkratzer"
+        },
+        {
+            "id": "25655392",
+            "year": 2007,
+            "title": "Big, Bigger, Biggest: Der Flugzeugträger USS Nimitz"
+        },
+        {
+            "id": "25680232",
+            "year": 2013,
+            "title": "Austenland"
+        },
+        {
+            "id": "25656854",
+            "year": 2016,
+            "title": "Augsburger Puppenkiste - Die Weihnachtsgeschichte"
+        },
+        {
+            "id": "25658182",
+            "year": 2006,
+            "title": "Azur & Asmar"
+        },
+        {
+            "id": "25656935",
+            "year": 2008,
+            "title": "Buster Keaton Vol. 1 Silent Comedy Classics"
+        },
+        {
+            "id": "25657285",
+            "year": 2008,
+            "title": "Buster Keaton Vol. 2 Silent Comedy Classics"
+        },
+        {
+            "id": "25653567",
+            "year": 2008,
+            "title": "BBC Horizon: Sind wir alleine im Universum?"
+        },
+        {
+            "id": "25657683",
+            "year": 1981,
+            "title": "Der Hornochse und sein Zugpferd"
+        },
+        {
+            "id": "25675833",
+            "year": 2012,
+            "title": "Cowgirls N' Angels"
+        },
+        {
+            "id": "25656964",
+            "year": 1915,
+            "title": "Charlie Chaplin - Die durchfeierte Nacht"
+        },
+        {
+            "id": "25677241",
+            "year": 2017,
+            "title": "Der Geist der Grauen Riesen"
+        },
+        {
+            "id": "25673792",
+            "year": 2011,
+            "title": "Der Zoowärter"
+        },
+        {
+            "id": "25657320",
+            "year": 1915,
+            "title": "Charlie Chaplin - Ein Haufen Arbeit"
+        },
+        {
+            "id": "25675248",
+            "year": 1951,
+            "title": "Der Mann im weißen Anzug"
+        },
+        {
+            "id": "25654810",
+            "year": 2015,
+            "title": "Das ultimative Vermächtnis"
+        },
+        {
+            "id": "25657376",
+            "year": 2014,
+            "title": "Die Karte meiner Träume - Making-of"
+        },
+        {
+            "id": "25657660",
+            "year": 2004,
+            "title": "Die Ex-Freundinnen meines Freundes"
+        },
+        {
+            "id": "25675642",
+            "year": 2009,
+            "title": "Die Geschichte der Fliegerei - Teil 1"
+        },
+        {
+            "id": "25658659",
+            "year": 2015,
+            "title": "Die Magie der Pferde"
+        },
+        {
+            "id": "25657386",
+            "year": 2010,
+            "title": "Die 4. Revolution - Energy Autonomy"
+        },
+        {
+            "id": "25675940",
+            "year": 2013,
+            "title": "Familie und andere Katastrophen"
+        },
+        {
+            "id": "25679205",
+            "year": 2013,
+            "title": "Gold - Du kannst mehr als du denkst"
+        },
+        {
+            "id": "25680517",
+            "year": 2013,
+            "title": "Eisheimat"
+        },
+        {
+            "id": "25676786",
+            "year": 1999,
+            "title": "Die Abenteuer von Elmo im Grummelland"
+        },
+        {
+            "id": "25676367",
+            "year": 2009,
+            "title": "Die Geschichte der Fliegerei - Teil 2"
+        },
+        {
+            "id": "25676221",
+            "year": 1933,
+            "title": "Die 42. Straße"
+        },
+        {
+            "id": "25658436",
+            "year": 2014,
+            "title": "Der kleine Nick macht Ferien"
+        },
+        {
+            "id": "25656095",
+            "year": 2006,
+            "title": "Ein Freund von mir"
+        },
+        {
+            "id": "25658685",
+            "year": 2014,
+            "title": "Die Melodie des Meeres"
+        },
+        {
+            "id": "25655922",
+            "year": 2017,
+            "title": "Fun Mom Dinner"
+        },
+        {
+            "id": "25652965",
+            "year": 1999,
+            "title": "Die Flintstones in Viva Rock Vegas"
+        },
+        {
+            "id": "25675697",
+            "year": 1984,
+            "title": "Die Muppets erobern Manhattan"
+        },
+        {
+            "id": "25658593",
+            "year": 2010,
+            "title": "Ein Hund rettet die Weihnachtsferien"
+        },
+        {
+            "id": "25654567",
+            "year": 2012,
+            "title": "Frohes Schaffen - Ein Film zur Senkung der Arbeitsmoral"
+        },
+        {
+            "id": "25655066",
+            "year": 2007,
+            "title": "Die drei Räuber"
+        },
+        {
+            "id": "25675454",
+            "year": 2012,
+            "title": "Für immer dein"
+        },
+        {
+            "id": "25654873",
+            "year": 2013,
+            "title": "Drama am Gipfel - Teil 2"
+        },
+        {
+            "id": "25661850",
+            "year": 2009,
+            "title": "Die Schlacht im Atlantik: Gejagte Jäger"
+        },
+        {
+            "id": "25658991",
+            "year": 2010,
+            "title": "Der letzte schöne Herbsttag"
+        },
+        {
+            "id": "25661248",
+            "year": 2006,
+            "title": "Gefährliche Begegnungen: Monster-Krokodile"
+        },
+        {
+            "id": "25676996",
+            "year": 2016,
+            "title": "Mister Malik und die Reise ins Glück"
+        },
+        {
+            "id": "25662789",
+            "year": 2017,
+            "title": "Mariah Carey's All I Want for Christmas is You"
+        },
+        {
+            "id": "25657318",
+            "year": 2014,
+            "title": "Mein treues Pferd Bär"
+        },
+        {
+            "id": "25677657",
+            "year": 2012,
+            "title": "Noch tausend Worte"
+        },
+        {
+            "id": "25655491",
+            "year": 2014,
+            "title": "Noseland"
+        },
+        {
+            "id": "25655092",
+            "year": 2013,
+            "title": "Mademoiselle C"
+        },
+        {
+            "id": "25677540",
+            "year": 2011,
+            "title": "Like Crazy"
+        },
+        {
+            "id": "25657293",
+            "year": 2005,
+            "title": "Paheli - Die Schöne und der Geist"
+        },
+        {
+            "id": "25680252",
+            "year": 2017,
+            "title": "Lucky Loser - Ein Sommer in der Bredouille"
+        },
+        {
+            "id": "25677237",
+            "year": 2015,
+            "title": "Jamie's Sugar Rush"
+        },
+        {
+            "id": "25655643",
+            "year": 2016,
+            "title": "Lichtgestalten"
+        },
+        {
+            "id": "25659301",
+            "year": 2011,
+            "title": "Knerten in der Klemme"
+        },
+        {
+            "id": "25655946",
+            "year": 2007,
+            "title": "Max und Moritz"
+        },
+        {
+            "id": "25653198",
+            "year": 2001,
+            "title": "Momo"
+        },
+        {
+            "id": "25654765",
+            "year": 1987,
+            "title": "Ist sie nicht wunderbar?"
+        },
+        {
+            "id": "25674659",
+            "year": 2002,
+            "title": "Mutter auf der Palme"
+        },
+        {
+            "id": "25653296",
+            "year": 2006,
+            "title": "Neil Young: Heart of Gold"
+        },
+        {
+            "id": "25654107",
+            "year": 2014,
+            "title": "Mitteldeutschland von oben - Unsere Gebirge"
+        },
+        {
+            "id": "25676895",
+            "year": 2002,
+            "title": "Paradies - Die Leidenschaft des Paul Gauguin"
+        },
+        {
+            "id": "25657620",
+            "year": 2017,
+            "title": "Rückkehr nach Montauk"
+        },
+        {
+            "id": "25656705",
+            "year": 2008,
+            "title": "Stomp - Live 2008"
+        },
+        {
+            "id": "25677838",
+            "year": 2012,
+            "title": "Robot und Frank"
+        },
+        {
+            "id": "25654883",
+            "year": 2006,
+            "title": "Shoppen"
+        },
+        {
+            "id": "25653255",
+            "year": 2014,
+            "title": "Spirit Berlin"
+        },
+        {
+            "id": "25680017",
+            "year": 2005,
+            "title": "Rose unter Dornen - Teil 2"
+        },
+        {
+            "id": "25676344",
+            "year": 2014,
+            "title": "Team Hot Wheels - Wie der Wahnsinn begann"
+        },
+        {
+            "id": "25677715",
+            "year": 2014,
+            "title": "The Look of Silence"
+        },
+        {
+            "id": "25652699",
+            "year": 2017,
+            "title": "Timm Thaler oder das verkaufte Lachen"
+        },
+        {
+            "id": "25652717",
+            "year": 2007,
+            "title": "Then she found me"
+        },
+        {
+            "id": "25675310",
+            "year": 1999,
+            "title": "The Straight Story - Eine wahre Geschichte"
+        },
+        {
+            "id": "25674562",
+            "year": 2016,
+            "title": "Tom und Jerry: Rückkehr nach Oz"
+        },
+        {
+            "id": "25678024",
+            "year": 2012,
+            "title": "Trainer!"
+        },
+        {
+            "id": "25674979",
+            "year": 2016,
+            "title": "Vor der Morgenröte: Stefan Zweig in Amerika"
+        },
+        {
+            "id": "25662822",
+            "year": 2016,
+            "title": "Viele Grüße vom Weihnachtsmann"
+        },
+        {
+            "id": "25677921",
+            "year": 2008,
+            "title": "Zuhause ist der Zauber los"
+        },
+        {
+            "id": "25676970",
+            "year": 2017,
+            "title": "IDITAROD - Alaskas legendäres Rennen"
+        },
+        {
+            "id": "25657611",
+            "year": 2015,
+            "title": "Rodeo Girl"
+        },
+        {
+            "id": "25677864",
+            "year": 1950,
+            "title": "Rendezvous in Paris"
+        }
+    ],
+    "Infoprogramm": [
+        {
+            "id": "25676643",
+            "year": 2007,
+            "title": "Hilfe! Mein Sohn ist magersüchtig!"
+        },
+        {
+            "id": "25657365",
+            "year": 2011,
+            "title": "Die DDR - Broiler, Trabbis & HO"
+        },
+        {
+            "id": "25676403",
+            "year": 2009,
+            "title": "Die schlimmsten Katastrophen der Menschheit"
+        },
+        {
+            "id": "25657728",
+            "year": 2008,
+            "title": "Personal Trainer - Pilates Basic"
+        },
+        {
+            "id": "25657985",
+            "year": 2008,
+            "title": "Personal Trainer - Full Body Workout"
+        },
+        {
+            "id": "25657481",
+            "year": 2008,
+            "title": "Personal Trainer - Bauch, Beine, Po"
+        },
+        {
+            "id": "25657603",
+            "year": 2008,
+            "title": "Personal Trainer - Bikini Workout"
+        },
+        {
+            "id": "25657226",
+            "year": 2008,
+            "title": "Personal Trainer - Pilates für Fortgeschrittene"
+        },
+        {
+            "id": "25653357",
+            "year": 2009,
+            "title": "US-Oldtimer auf Kuba"
+        }
+    ]
+}
